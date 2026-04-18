@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-# About Me
-
 Hello! I am Karma, a software developer and MBA graduate. 
 
 I am interested in technology and venture capital. This stems from my experience in the field of technology and sound understanding of finance.
