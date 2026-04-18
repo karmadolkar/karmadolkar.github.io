@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+#- {name: 'Interesting Facts',  url: 'facts'}
+#- {name: 'Learning Resources', url: 'resources'}
+#- {name: 'Sample Posts',       url: 'sample-posts'}
+#- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
@@ -25,11 +25,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: '→'
+  previous_page: '←'
 
-sharing_button_prompt: 'Feel free to share!'
+# sharing_button_prompt: 'Feel free to share! oh hell nah'
 
-related_posts: 'You may also enjoy...'
+# related_posts: 'You may also yuck...'
 
 post_date_prefix: 'Written on'
